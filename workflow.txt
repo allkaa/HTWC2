@@ -336,4 +336,4 @@ $
 
 In VSC
 Initial creation local repo
-Publish Branch
+Publish Branch -> HTWC2 -> Publish to GitHub public rep allkaa/HTWC2
