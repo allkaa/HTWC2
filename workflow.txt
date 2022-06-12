@@ -333,3 +333,7 @@ To remove all downloaded modules, you can pass the -modcache flag to go clean:
 
 $ go clean -modcache
 $
+
+In VSC
+Initial creation local repo
+Publish Branch
