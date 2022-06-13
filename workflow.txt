@@ -335,5 +335,5 @@ $ go clean -modcache
 $
 
 In Visual Studio Code IDE
-1. Initial creat local repository e.g. HTWC2
+1. Initial create local repository e.g. HTWC2
 2. Publish Branch -> e.g. HTWC2 -> Publish to GitHub public(private) repository e.g. allkaa/HTWC2
